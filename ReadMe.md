@@ -26,4 +26,4 @@ I've found that the size the font works best at varies per resolution, thus to m
 
 
 CC-BY-ND 4.0, if you want to make a derivative- talk to me!
-- jan Majeka
+\- jan Majeka
