@@ -9,4 +9,4 @@ use 2, 3, 4... / Var2, Var3, Var4... to alt a glyph, but use 1 / Var1 after some
 To write non-UCSUR words, bookend the word written in Latin characters with `L`!
    such as -> `LkapaL` `LeteL` `LjuleL` `LlipamankaL`
 
-![page1](https://github.com/yan-Mayeka/sitelen-Ilosele-Ilozellig/blob/main/FontGlyphOrderDisplayTest.png)
+![page1](FontGlyphOrderDisplayTest.png)
