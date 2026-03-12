@@ -22,7 +22,8 @@ Unlike what this image may suggest, any glyph you can "nest" with you can also a
 This font also features Latin and Cyrillic support!  
 
 
-I've found that the size the font works best at varies per resolution, thus to my knowledge HD and UHD work best with multiples of 12, and SD works best with multiples of 15, I recommend testing one of these two and if they do not work then uhhhhhhh fuck tell me you cxan also just trial-and-error
+I've found that the size the font works best at varies per resolution, thus to my knowledge HD and UHD work best with multiples of 12, and SD works best with multiples of 15, I recommend testing one of these two and if they do not work then uhhhhhhh fuck tell me you can also just trial-and-error
 
 
 CC-BY-ND 4.0, if you want to make a derivative- talk to me!
+- jan Majeka
